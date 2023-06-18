@@ -6,5 +6,6 @@
 1. Neovim
 2. Kitty - terminal
 3. Zsh
+4. Tmux
 
 ## Have fun!
